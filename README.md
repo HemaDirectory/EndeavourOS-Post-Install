@@ -20,9 +20,10 @@
 ---
 
 ## 🖼 لقطات الشاشة
-![[Screenshot_2026-05-22_20-20-48.png]]
-![[Screenshot_2026-05-22_20-18-38.png]]
-![[Screenshot_2026-05-22_20-20-08.png]]
+![[Screenshots/Screenshot_2026-05-22_20-20-48.png]]
+![[Screenshots/Screenshot_2026-05-22_20-18-38.png]]
+![[Screenshots/Screenshot_2026-05-22_20-20-08.png]]
+
 ```
 screenshots/
 ├── desktop.png
