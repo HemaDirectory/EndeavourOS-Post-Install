@@ -24,13 +24,6 @@
 ![](Screenshots/Screenshot_2026-05-22_20-18-38.png)
 ![](Screenshots/Screenshot_2026-05-22_20-20-08.png)
 
-```
-screenshots/
-├── desktop.png
-├── terminal.png
-├── gaming.png
-└── workflow.png
-```
 
 ---
 
